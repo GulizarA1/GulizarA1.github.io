@@ -14,6 +14,7 @@ let brickcount=10*5
 let barvelocity=15.90
 let up=true
 let right
+let getboundingclient
 let leftright=Math.floor(Math.random()*2);
 leftright?(right=true):(right=false);
 
