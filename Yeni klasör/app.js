@@ -18,7 +18,7 @@ let getboundingclient
 let leftright=Math.floor(Math.random()*2);
 leftright?(right=true):(right=false);
 
-const bricks= (50)=>{
+var bricks= ()=>{
     let left=1
     let top=1
     for (let i=1;i<brickcount;i++)
